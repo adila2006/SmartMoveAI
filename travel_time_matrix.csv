@@ -1,0 +1,8 @@
+
+from_stop,Periyar Bus Stand,M.G.R. Bus Stand Mattuthavani,Arappalayam Bus Stand,Anna Bus Stand,Madurai Junction Bus Stop,Kalavasal Bus Stop
+Periyar Bus Stand,0,20,15,15,10,15
+M.G.R. Bus Stand Mattuthavani,20,0,30,25,20,25
+Arappalayam Bus Stand,15,30,0,20,20,10
+Anna Bus Stand,15,25,20,0,15,15
+Madurai Junction Bus Stop,10,20,20,15,0,15
+Kalavasal Bus Stop,15,25,10,15,15,0

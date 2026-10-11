@@ -1,0 +1,7 @@
+location,available_buses,minimum_buses,bus_capacity,transfer_time_min
+Periyar Bus Stand,5,2,50,10
+M.G.R. Bus Stand Mattuthavani,4,2,50,15
+Arappalayam Bus Stand,3,1,50,10
+Anna Bus Stand,2,1,50,10
+Madurai Junction Bus Stop,1,1,50,10
+Kalavasal Bus Stop,1,1,50,15

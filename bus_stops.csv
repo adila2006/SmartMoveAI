@@ -1,0 +1,3 @@
+stop_id,stop_name,initial_buses,demand_level,min_buses,passenger_demand,bus_capacity
+S1,Main Bus Stand,12,high,6,1500,50
+S2,Nearby Bus Stop,4,low,2,450,50

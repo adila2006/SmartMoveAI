@@ -1,0 +1,17 @@
+location,time_slot,event_level,day_type,passenger_count
+Main Bus Stand,16:00,1,1,250
+Main Bus Stand,16:30,1,1,400
+Main Bus Stand,17:00,2,1,700
+Main Bus Stand,17:30,3,1,1200
+Main Bus Stand,18:00,3,1,1500
+Main Bus Stand,18:30,3,1,1300
+Main Bus Stand,19:00,2,1,900
+Main Bus Stand,19:30,1,1,500
+Nearby Bus Stop,16:00,1,1,100
+Nearby Bus Stop,16:30,1,1,150
+Nearby Bus Stop,17:00,2,1,250
+Nearby Bus Stop,17:30,2,1,350
+Nearby Bus Stop,18:00,3,1,450
+Nearby Bus Stop,18:30,2,1,350
+Nearby Bus Stop,19:00,1,1,200
+Nearby Bus Stop,19:30,1,1,120
